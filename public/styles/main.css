@@ -1,0 +1,36 @@
+*{
+    font-size:100%;
+}
+body{
+    text-align: center;
+
+}
+h1{
+    font-size:250%;
+}
+
+#alert_container{
+    display:none;
+}
+.small_img{
+    height:10vh;
+    width:10vw;
+}
+
+button{
+    color:black;
+    background-color:white;
+    border:1px dotted black;
+    border-radius: 1vh;
+}
+button:hover{
+    color:black;
+    background-color:#E0E0E0;
+    transition-duration:100ms;
+}
+
+.side_margin{
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:5%;
+}
